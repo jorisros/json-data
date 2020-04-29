@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "projects": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "436d71c1-c475-474c-b965-b33dfa1b9f6c",
+      "title": "Project 1"
+    },
+    {
+      "id": "8b74346c-0f96-478b-8ae5-054b4d5b970a",
+      "title": "Project 2"
     }
   ],
   "profile": {
