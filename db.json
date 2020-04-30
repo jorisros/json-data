@@ -22,8 +22,13 @@
       "description": "Ut id diam sit amet nisl elementum congue eget at dui. ",
       "variables": [
         {
-          "name": "Color",
+          "name": "color",
           "value": "#ff0000",
+          "type": "text"
+        },
+        {
+          "name": "width",
+          "value": "600px",
           "type": "text"
         }
       ]
