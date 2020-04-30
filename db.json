@@ -19,7 +19,14 @@
   "project": {
       "id": "3a8941b1-04ec-4199-b7f1-7b3fa3ca532d",
       "title": "Project 3",
-      "description": "Ut id diam sit amet nisl elementum congue eget at dui. "
+      "description": "Ut id diam sit amet nisl elementum congue eget at dui. ",
+      "variables": [
+        {
+          "name": "Color",
+          "value": "#ff0000",
+          "type": "text"
+        }
+      ]
   },
   "profile": {
     "fullName": "Joris Ros",
