@@ -16,6 +16,11 @@
       "description": "Ut id diam sit amet nisl elementum congue eget at dui. "
     }
   ],
+  "project": {
+      "id": "3a8941b1-04ec-4199-b7f1-7b3fa3ca532d",
+      "title": "Project 3",
+      "description": "Ut id diam sit amet nisl elementum congue eget at dui. "
+  },
   "profile": {
     "fullName": "Joris Ros",
     "image": "https://i.picsum.photos/id/1/200/200.jpg"
