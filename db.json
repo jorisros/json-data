@@ -2,11 +2,18 @@
   "projects": [
     {
       "id": "436d71c1-c475-474c-b965-b33dfa1b9f6c",
-      "title": "Project 1"
+      "title": "Project 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor mollis ipsum, non pretium orci viverra vel."
     },
     {
       "id": "8b74346c-0f96-478b-8ae5-054b4d5b970a",
-      "title": "Project 2"
+      "title": "Project 2",
+      "description": "Vivamus venenatis sagittis urna ac tincidunt. "
+    },
+    {
+      "id": "3a8941b1-04ec-4199-b7f1-7b3fa3ca532d",
+      "title": "Project 3",
+      "description": "Ut id diam sit amet nisl elementum congue eget at dui. "
     }
   ],
   "profile": {
