@@ -47,6 +47,24 @@
     }
      ]
   },
+  "templates": [
+    {
+      "id": "8091cef4-6da2-4d8e-8884-0fca61af8202",
+      "name": "Template",
+      "path": "/template.html",
+      "children": [
+          {
+            "id": "8091cef4-6da2-4d8e-8884-0fca61af8202",
+            "name": "Child 1",
+            "path": "/template/Child_1.html",
+          }
+        ]
+    },{
+      "id": "6b9eb2db-a2aa-4b77-9866-c340e42dba3b",
+      "name": "Template 2",
+      "path": "/template_2.html"
+    }
+  ],
   "profile": {
     "fullName": "Joris Ros",
     "image": "https://i.picsum.photos/id/1/200/200.jpg"
