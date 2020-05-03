@@ -20,6 +20,10 @@
       "id": "3a8941b1-04ec-4199-b7f1-7b3fa3ca532d",
       "title": "Project 3",
       "description": "Ut id diam sit amet nisl elementum congue eget at dui. ",
+      "template": "8091cef4-6da2-4d8e-8884-0fca61af8202",
+      "template_children": [
+          "8091cef4-6da2-4d8e-8884-0fca61af8202"
+        ],
       "variables": [
         {
           "name": "color",
